@@ -1,4 +1,4 @@
-# This is a collection of my work on kaggle projects.
+# This is a collection of kaggle projects.
 
 ### I have undertaken following projects
 
