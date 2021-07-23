@@ -2,4 +2,4 @@
 
 ### I have undertaken following projects
 
-* Coleridge Initiative: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data
+1 Coleridge Initiative: https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data
